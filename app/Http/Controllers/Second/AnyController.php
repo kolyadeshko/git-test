@@ -7,5 +7,8 @@ use Illuminate\Http\Request;
 
 class AnyController extends Controller
 {
-    //
+    public function newFunc()
+    {
+        return "Some text";
+    }
 }
