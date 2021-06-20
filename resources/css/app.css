@@ -1,0 +1,10 @@
+.mainpage{
+    background-color: aqua;
+    max-width: 600px;
+    color: aquamarine;
+}
+.container{
+    user-select: none;
+    padding: 20px;
+    margin-bottom: 50px;
+}
